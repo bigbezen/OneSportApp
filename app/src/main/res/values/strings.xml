@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Spommunity</string>
+    <string name="facebook_app_id">405597113218174</string>
+    <string name="fb_login_protocol_scheme">fb405597113218174</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_main_app_window">MainAppWIndow</string>
+    <string name="enter_name_login">Enter Name</string>
+    <string name="password_login">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="signup_for_spommunity">Signup for Spommunity</string>
+    <string name="moto">Partners who take you to the limit...</string>
+    <string name="what_is_your_workout">What is your workout?</string>
+    <string name="what_is_your_field">What is your field of expertise?</string>
+    <string name="birthday">Birthday:</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
